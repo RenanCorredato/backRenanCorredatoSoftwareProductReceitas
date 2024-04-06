@@ -10,4 +10,5 @@ public class BarbecueApplication {
         SpringApplication.run(BarbecueApplication.class, args);
     }
 
+
 }
